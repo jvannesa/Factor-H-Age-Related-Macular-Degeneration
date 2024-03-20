@@ -1,4 +1,5 @@
 C-Reactive Protein-Complement Factor H Axis as a Biomarker of Activity in Early and Intermediate Age-Related Macular Degeneration
+
 1 Institut Clínic d’Oftalmologia (ICOF), Hospital Clínic, Barcelona, Spain
 
 2 Department of Ophthalmology, Biocruces Bizkaia Health Research Institute, Cruces University Hospital, University of the Basque Country, Barakaldo, Spain
